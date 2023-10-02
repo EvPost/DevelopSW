@@ -4,7 +4,14 @@ fun  hi10(){
     }
 }
 
+fun vivaMechMat(){
+    println("Viva Mech-mat faculty!!!");
+}
+
+
+
 fun main() {
     println("Hello, World!");
     hi10();
+    vivaMechMat();
 }
